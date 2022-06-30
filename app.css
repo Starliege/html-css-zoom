@@ -51,7 +51,7 @@ a {
 }
 
 #users > div {
-    width: 14%;
+    width: 240px;
     height: 140px;
     background-image: url(https://picsum.photos/250/150);
     position: relative;
